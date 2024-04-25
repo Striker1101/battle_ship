@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
         cell.classList.add(playerClass + "_box");
         cell.style.width = "30px";
         cell.style.height = "30px";
-        cell.style.border = "1px solid red";
+        cell.style.border = "1px solid blue";
         row.appendChild(cell);
       }
 
